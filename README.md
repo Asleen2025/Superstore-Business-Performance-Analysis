@@ -1,5 +1,4 @@
-**Superstore Business Performance Analysis
-**
+**Superstore Business Performance Analysis**
 📌 Project Overview
 =============================
 This project simulates a Superstore dataset using Python and performs data cleaning, analysis, and visualization to generate actionable insights into revenue, profit, and sales performance.
